@@ -1,0 +1,20 @@
+<skills>
+  <softSkills>
+    <item>Ability to pay close attention to detail</item>
+    <item>Critical thinking</item>
+    <item>Problem-solving skills</item>
+    <item>Verbal and written communication skills</item>
+  </softSkills>
+  <hardSkills>
+    <item>Jira</item>
+    <item>javaScript</item>
+    <item>SQL</item>
+    <item>Postman</item>
+    <item>gitBash</item>
+    <item>GIT</item>
+    <item>Charles</item>
+    <item>Fiddler</item>
+    <item>Jmeter</item>
+    <item>DevTools</item>
+  </hardSkills>
+</skills>

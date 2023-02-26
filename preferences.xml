@@ -1,0 +1,18 @@
+<myPrefences>
+  <movie>
+    <item>Interstellar</item>
+    <item>Oblivion</item>
+    <item>The Professor</item>
+  </movie>
+  <serials>
+    <item>Breaking Bad</item>
+    <item>A Game of Thrones</item>
+    <item>House of the Dragon</item>
+  </serials>
+  <food>all fruits</food>
+  <favoriteSeason>summer</favoriteSeason>
+  <country>
+    <item>USA</item>
+    <item>Australia</item>
+  </country>
+</myPrefences>
