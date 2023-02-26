@@ -1,0 +1,8 @@
+<person>
+	<name>Ruslan</name>
+	<surname>Khrebtov</surname>
+	<age>25</age>
+	<gender>male</gender>
+	<pets></pets>
+	<futureSalary>1000</futureSalary>
+</person>
