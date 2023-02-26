@@ -1,6 +1,6 @@
 <Bug_reports>
+  
 <ID>06464DES</ID>
-
   <Title>Invalid password link sent to email</Title>
   <Priority>High</Priority>
   <Severity>Blocker</Severity>
@@ -15,4 +15,5 @@
   <Actual_result>The User receives an invalid password link</Actual_result>
   <Attachments>Here must be a link to google drive</Attachments>
   <Version>Chrome 110.0.5481.177</Version>
+  
 </Bug_reports>
